@@ -7,7 +7,7 @@ Get a bunch of stats about an array fast.
 
 ## How to run the demo
 
-`./output`
+`./output` or `make run`
 
 ## How to use in your project
 
